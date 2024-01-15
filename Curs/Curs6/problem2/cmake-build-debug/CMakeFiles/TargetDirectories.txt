@@ -1,0 +1,4 @@
+/Users/vladshorodok/Desktop/projects/PCLP/lCurs/Curs6/cmake-build-debug/CMakeFiles/Curs6.dir
+/Users/vladshorodok/Desktop/projects/PCLP/lCurs/Curs6/cmake-build-debug/CMakeFiles/Ex2.dir
+/Users/vladshorodok/Desktop/projects/PCLP/lCurs/Curs6/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/vladshorodok/Desktop/projects/PCLP/lCurs/Curs6/cmake-build-debug/CMakeFiles/rebuild_cache.dir

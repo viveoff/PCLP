@@ -1,0 +1,3 @@
+/Users/vladshorodok/Desktop/projects/PCLP/Curs/Curs6/Exemple/Exemplu_1/cmake-build-debug/CMakeFiles/Exemplu_1.dir
+/Users/vladshorodok/Desktop/projects/PCLP/Curs/Curs6/Exemple/Exemplu_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/vladshorodok/Desktop/projects/PCLP/Curs/Curs6/Exemple/Exemplu_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
